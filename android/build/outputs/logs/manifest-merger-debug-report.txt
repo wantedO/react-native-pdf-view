@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/olehbabii/Documents/Work/LolaStaffingApp/node_modules/react-native-pdf-view/android/src/main/AndroidManifest.xml:21:1-25:12
+INJECTED from /Users/olehbabii/Documents/Work/LolaStaffingApp/node_modules/react-native-pdf-view/android/src/main/AndroidManifest.xml:21:1-25:12
+INJECTED from /Users/olehbabii/Documents/Work/LolaStaffingApp/node_modules/react-native-pdf-view/android/src/main/AndroidManifest.xml:21:1-25:12
+	package
+		ADDED from /Users/olehbabii/Documents/Work/LolaStaffingApp/node_modules/react-native-pdf-view/android/src/main/AndroidManifest.xml:22:7-34
+		INJECTED from /Users/olehbabii/Documents/Work/LolaStaffingApp/node_modules/react-native-pdf-view/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/olehbabii/Documents/Work/LolaStaffingApp/node_modules/react-native-pdf-view/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/olehbabii/Documents/Work/LolaStaffingApp/node_modules/react-native-pdf-view/android/src/main/AndroidManifest.xml:21:11-69
+uses-sdk
+INJECTED from /Users/olehbabii/Documents/Work/LolaStaffingApp/node_modules/react-native-pdf-view/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/olehbabii/Documents/Work/LolaStaffingApp/node_modules/react-native-pdf-view/android/src/main/AndroidManifest.xml
+INJECTED from /Users/olehbabii/Documents/Work/LolaStaffingApp/node_modules/react-native-pdf-view/android/src/main/AndroidManifest.xml
+INJECTED from /Users/olehbabii/Documents/Work/LolaStaffingApp/node_modules/react-native-pdf-view/android/src/main/AndroidManifest.xml
+INJECTED from /Users/olehbabii/Documents/Work/LolaStaffingApp/node_modules/react-native-pdf-view/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/olehbabii/Documents/Work/LolaStaffingApp/node_modules/react-native-pdf-view/android/src/main/AndroidManifest.xml
+		ADDED from /Users/olehbabii/Documents/Work/LolaStaffingApp/node_modules/react-native-pdf-view/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/olehbabii/Documents/Work/LolaStaffingApp/node_modules/react-native-pdf-view/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/olehbabii/Documents/Work/LolaStaffingApp/node_modules/react-native-pdf-view/android/src/main/AndroidManifest.xml
+		ADDED from /Users/olehbabii/Documents/Work/LolaStaffingApp/node_modules/react-native-pdf-view/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/olehbabii/Documents/Work/LolaStaffingApp/node_modules/react-native-pdf-view/android/src/main/AndroidManifest.xml
