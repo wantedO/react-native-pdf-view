@@ -55,7 +55,7 @@ public class PDFViewManager extends SimpleViewManager<PDFView> implements OnPage
 
     @Override
     public void onPageChanged(int page, int pageCount) {
-        page = page+1;
+        page = page;
         pageNumber = page;
         showLog(format("%s %s / %s", filePath, page, pageCount));
 
